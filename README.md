@@ -5,9 +5,9 @@ In HelloWorld you will find the task:
 
 - Create a HelloWorld.java program and run it from the terminal with javac
 
-In Search Algorithms:
+In Sorting Algorithms:
 
-- Search algorithms, in each one the user enters a series of numbers and then the algorithm sorts them. 
+- Sorting algorithms, in each one the user enters a series of numbers and then the algorithm sorts them. 
 
 In Object Oriented Programming:
    - Create a class hierarchy with 15 classes. 
