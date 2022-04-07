@@ -20,3 +20,7 @@ In Exceptions&Loggers:
    -  Handle exceptions in 2 ways
    -  Use try-catch with resources.
    -  Log messages to the console, file.
+
+In Collections&Generics:
+   - Add 5 collections to the hierarchy.
+   - Create a Custom linked list with generic.
