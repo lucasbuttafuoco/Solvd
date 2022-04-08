@@ -24,3 +24,11 @@ In Exceptions&Loggers:
 In Collections&Generics:
    - Add 5 collections to the hierarchy.
    - Create a Custom linked list with generic.
+
+In ApacheUtils:
+
+   - Find a site with a huge text (article).
+   - Save the article in a txt in the resources folder.
+   - Calculate the number of unique words.
+   - Create a second txt file with the count of words in the article (word - count).
+   - Create the shortest (minimum code) solution (with file utils and string utils).
