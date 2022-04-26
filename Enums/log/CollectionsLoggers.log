@@ -1,0 +1,10 @@
+2022-04-04 11:12:03,707 ERROR c.S.HospitalApp [main] com.Solvd.Exceptions.StaffAgeException: You are too young to work for the hospital
+2022-04-04 11:12:03,714 ERROR c.S.HospitalApp [main] com.Solvd.Exceptions.ValidIdException: The id of the equipment is not valid
+2022-04-04 11:12:05,831 ERROR c.S.HospitalApp [main] com.Solvd.Exceptions.NumberOfPatientsException: There are no patients in the waiting room
+2022-04-04 11:12:05,833 ERROR c.S.HospitalApp [main] com.Solvd.Exceptions.HasNotInsuranceException: the patient must have insurance
+2022-04-04 11:12:05,833 ERROR c.S.HospitalApp [main] com.Solvd.Exceptions.OutofStockException: This supply is out of stock
+2022-04-07 17:07:39,893 ERROR c.S.HospitalApp [main] com.Solvd.Exceptions.StaffAgeException: You are too young to work for the hospital
+2022-04-07 17:07:39,899 ERROR c.S.HospitalApp [main] com.Solvd.Exceptions.ValidIdException: The id of the equipment is not valid
+2022-04-07 17:07:45,066 ERROR c.S.HospitalApp [main] com.Solvd.Exceptions.NumberOfPatientsException: There are no patients in the waiting room
+2022-04-07 17:07:45,066 ERROR c.S.HospitalApp [main] com.Solvd.Exceptions.HasNotInsuranceException: the patient must have insurance
+2022-04-07 17:07:45,067 ERROR c.S.HospitalApp [main] com.Solvd.Exceptions.OutofStockException: This supply is out of stock
