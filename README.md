@@ -32,3 +32,11 @@ In ApacheUtils:
    - Calculate the number of unique words.
    - Create a second txt file with the count of words in the article (word - count).
    - Create the shortest (minimum code) solution (with file utils and string utils).
+
+In Enums: 
+   -Create 3 different enums and use them in your hierarchy.
+
+Reflections:
+   - Get metadata of a class fields.
+   - Get metadata of a class constructors.
+   - Get metadata of a class methods.
