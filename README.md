@@ -40,3 +40,6 @@ Reflections:
    - Get metadata of a class fields.
    - Get metadata of a class constructors.
    - Get metadata of a class methods.
+
+Thread example: 
+    - Using Thread class and Runnable interface to create threads.
